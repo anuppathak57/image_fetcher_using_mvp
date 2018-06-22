@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anup Project</string>
+    <string name="enter_items_to_search">Enter text to search</string>
+    <string name="alert">Alert</string>
+    <string name="valid_query">Please enter valid query value.</string>
+    <string name="search">Search</string>
+    <string name="response_could_notfetch">Failed to get Response from server.</string>
+    <string name="something_went_wrong">Something went wrong , please try again.</string>
+</resources>
